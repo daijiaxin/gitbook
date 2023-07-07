@@ -12,3 +12,8 @@
   * [归并排序](algorithm/sort/gui-bing-pai-xu.md)
   * [堆排序](algorithm/sort/dui-pai-xu.md)
 * [💖 动态规划](algorithm/dong-tai-gui-hua.md)
+
+## 常用配置 <a href="#config" id="config"></a>
+
+* [VIM](config/vim.md)
+* [Git](config/git.md)
