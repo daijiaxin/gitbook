@@ -26,6 +26,10 @@ services:
       - /data/nextcloud:/var/www/html
 ```
 
+## 本地文件添加
+
+> docker exec --user www-data nextcloud php occ files:scan --all
+
 ## 视频缩略图
 
 #### 安装ffmpeg
